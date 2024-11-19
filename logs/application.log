@@ -1,0 +1,174 @@
+2024-11-19T21:08:57.381+08:00  INFO 39549 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 39549 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:08:57.382+08:00  INFO 39549 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:08:57.515+08:00  INFO 39549 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:08:57.517+08:00  INFO 39549 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:08:57.517+08:00  INFO 39549 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:08:57.521+08:00  INFO 39549 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:08:57.522+08:00  INFO 39549 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 137 ms
+2024-11-19T21:08:57.543+08:00  INFO 39549 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:08:57.593+08:00  INFO 39549 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:08:57.600+08:00  INFO 39549 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:08:57.604+08:00  INFO 39549 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.282 seconds (process running for 857.98)
+2024-11-19T21:08:57.605+08:00  INFO 39549 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:11:26.747+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:11:26.749+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:11:26.800+08:00  INFO 46324 --- [lesson1] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-11-19T21:11:26.801+08:00  INFO 46324 --- [lesson1] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-11-19T21:11:27.610+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:11:27.624+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:11:27.625+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:11:27.659+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:11:27.660+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 852 ms
+2024-11-19T21:11:27.755+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:11:27.935+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:11:27.968+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:11:27.977+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 1.6 seconds (process running for 2.118)
+2024-11-19T21:11:34.948+08:00  INFO 46324 --- [lesson1] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-19T21:11:34.948+08:00  INFO 46324 --- [lesson1] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-19T21:11:34.949+08:00  INFO 46324 --- [lesson1] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-19T21:12:13.375+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:12:13.454+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:12:13.455+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:12:13.639+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:12:13.640+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:12:13.640+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:12:13.646+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:12:13.646+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 187 ms
+2024-11-19T21:12:13.678+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:12:13.735+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:12:13.742+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:12:13.745+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.32 seconds (process running for 47.886)
+2024-11-19T21:12:13.748+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:13:47.217+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-11-19T21:13:47.292+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:13:47.292+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:13:47.431+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:13:47.432+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:13:47.432+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:13:47.437+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:13:47.438+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 144 ms
+2024-11-19T21:13:47.465+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:13:47.515+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:13:47.521+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:13:47.524+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.255 seconds (process running for 141.665)
+2024-11-19T21:13:47.527+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:16:05.055+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:16:05.125+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:16:05.125+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:16:05.231+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:16:05.232+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:16:05.232+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:16:05.236+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:16:05.237+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 110 ms
+2024-11-19T21:16:05.257+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:16:05.297+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:16:05.301+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:16:05.304+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.2 seconds (process running for 279.445)
+2024-11-19T21:16:05.305+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:16:55.734+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:16:55.799+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:16:55.799+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:16:55.933+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:16:55.934+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:16:55.934+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:16:55.939+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:16:55.939+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 138 ms
+2024-11-19T21:16:55.958+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:16:56.002+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:16:56.007+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:16:56.011+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.234 seconds (process running for 330.152)
+2024-11-19T21:16:56.012+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:17:17.418+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:17:17.490+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:17:17.490+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:17:17.607+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:17:17.608+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:17:17.608+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:17:17.614+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:17:17.614+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 122 ms
+2024-11-19T21:17:17.633+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:17:17.670+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:17:17.679+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:17:17.682+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.216 seconds (process running for 351.823)
+2024-11-19T21:17:17.684+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:17:27.079+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:17:27.140+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:17:27.140+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:17:27.263+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:17:27.264+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:17:27.264+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:17:27.269+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:17:27.269+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 128 ms
+2024-11-19T21:17:27.288+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:17:27.324+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:17:27.332+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:17:27.335+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.214 seconds (process running for 361.476)
+2024-11-19T21:17:27.336+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:18:24.768+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:18:24.835+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:18:24.835+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:18:24.945+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:18:24.946+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:18:24.946+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:18:24.950+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:18:24.950+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 114 ms
+2024-11-19T21:18:24.971+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:18:25.007+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:18:25.016+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:18:25.019+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.203 seconds (process running for 419.16)
+2024-11-19T21:18:25.020+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:18:41.422+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:18:41.487+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:18:41.487+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:18:41.607+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:18:41.608+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:18:41.608+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:18:41.612+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:18:41.612+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 123 ms
+2024-11-19T21:18:41.633+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:18:41.670+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:18:41.677+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:18:41.681+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.212 seconds (process running for 435.821)
+2024-11-19T21:18:41.682+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:18:53.078+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:18:53.155+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:18:53.155+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:18:53.277+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:18:53.278+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:18:53.278+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:18:53.282+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:18:53.283+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 126 ms
+2024-11-19T21:18:53.303+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:18:53.340+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:18:53.350+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:18:53.353+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.218 seconds (process running for 447.494)
+2024-11-19T21:18:53.354+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:19:13.757+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:19:13.836+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:19:13.837+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:19:13.965+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:19:13.966+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:19:13.966+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:19:13.970+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:19:13.970+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 132 ms
+2024-11-19T21:19:13.989+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:19:14.025+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:19:14.035+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:19:14.038+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.227 seconds (process running for 468.179)
+2024-11-19T21:19:14.039+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-11-19T21:19:18.529+08:00  INFO 46324 --- [lesson1] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-19T21:19:18.529+08:00  INFO 46324 --- [lesson1] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-19T21:19:18.530+08:00  INFO 46324 --- [lesson1] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-11-19T21:20:31.498+08:00  INFO 46324 --- [lesson1] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-11-19T21:20:31.573+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Starting Lesson1Application using Java 21.0.5 with PID 46324 (/home/liewchooichin/Public/pace/lesson1/target/classes started by liewchooichin in /home/liewchooichin/Public/pace/lesson1)
+2024-11-19T21:20:31.573+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : No active profile set, falling back to 1 default profile: "default"
+2024-11-19T21:20:31.688+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-19T21:20:31.689+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-19T21:20:31.689+08:00  INFO 46324 --- [lesson1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-19T21:20:31.692+08:00  INFO 46324 --- [lesson1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-19T21:20:31.693+08:00  INFO 46324 --- [lesson1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 118 ms
+2024-11-19T21:20:31.712+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-19T21:20:31.751+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-19T21:20:31.759+08:00  INFO 46324 --- [lesson1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-19T21:20:31.762+08:00  INFO 46324 --- [lesson1] [restartedMain] c.pace.app.lesson1.Lesson1Application    : Started Lesson1Application in 0.207 seconds (process running for 545.902)
+2024-11-19T21:20:31.763+08:00  INFO 46324 --- [lesson1] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
