@@ -25,14 +25,14 @@ public class MyProductsController {
 
   // get products
   // path variable
-  @GetMapping("/products/{productId}")
+  @GetMapping("/myproducts/{productId}")
   public String getProduct(@PathVariable int productId) {
       return new String("You have requested for product with id: " + productId);
   }
 
   // search products
   // request param
-  @GetMapping("/products")
+  @GetMapping("/myproducts")
   public String getMethodName(@RequestParam(required=false) String search ) {
       if(search == null){
         return new String("This is the product page.");
